@@ -11,8 +11,14 @@ Lots of engineers are primarily motivated by writing high quality code, or very 
 
 ### Hiring Product Engineers
 
-I'd hand them a piece of paper and ask them to sketch out a profile page that's user friendly. Then I'd ask them how they'd design the schema for that. Then I'd ask them to sketch out the admin interface for managing users and how they'd implement that. If they start asking questions about permissions and roles and such I'd be really impressed. Essentially I'd act like a client/end user who kinda knows what they want to see if they can ask the right questions. I'm not looking for a UX expert but more someone who thinks about the process and end result as well as a nice way to implement the code side. I'd ask programming related questions as well but if (when) I hire I want someone who thinks about the end user experience while they are developing, I don't live in a world where a job comes with a 400 page spec and neither would they. I take the view that I'd rather have someone who can think about how the end system will work than someone who knows ever single API for whatever language I'm hiring for, one of those you can find on google in 30 seconds the other not so much.
-
+* I'd hand them a piece of paper and ask them to sketch out a profile page that's user friendly.
+* Then I'd ask them how they'd design the schema for that.
+* Then I'd ask them to sketch out the admin interface for managing users and how they'd implement that.
+* If they start asking questions about permissions and roles and such I'd be really impressed.
+* Essentially I'd act like a client/end user who kinda knows what they want to see if they can ask the right questions.
+* I'm not looking for a UX expert but more someone who thinks about the process and end result as well as a nice way to implement the code side.
+* I'd ask programming related questions as well but if (when) I hire I want someone who thinks about the end user experience while they are developing, I don't live in a world where a job comes with a 400 page spec and neither would they.
+* I take the view that I'd rather have someone who can think about how the end system will work than someone who knows ever single API for whatever language I'm hiring for, one of those you can find on google in 30 seconds the other not so much.
 
 # Product Development
 
