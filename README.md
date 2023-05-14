@@ -20,16 +20,10 @@ Lots of engineers are primarily motivated by writing high quality code, or very 
 * I'd ask programming related questions as well but if (when) I hire I want someone who thinks about the end user experience while they are developing, I don't live in a world where a job comes with a 400 page spec and neither would they.
 * I take the view that I'd rather have someone who can think about how the end system will work than someone who knows ever single API for whatever language I'm hiring for, one of those you can find on google in 30 seconds the other not so much.
 
-# Product Development
+# Initial Setup
 
-## Infra
-
-## Client
+### References
 * https://github.com/hendurhance/ui-ux
-
-## Server
-
-### ML / AI 
 * https://github.com/Trusted-AI/adversarial-robustness-toolbox
 * https://github.com/RUCAIBox/LLMSurvey
 * https://github.com/Significant-Gravitas/Auto-GPT
