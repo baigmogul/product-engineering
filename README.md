@@ -1,4 +1,6 @@
-# Product Engineer
+# Product Engineering
+
+### Who is a Product Engineer
 
 Full stack engineers are generalist engineers who are motivated by technical problems. Product engineers are motivated by building impactful tools. They learnt programming somewhere along the way as a necessity to show the world their ideas.
 
@@ -31,3 +33,5 @@ Lots of engineers are primarily motivated by writing high quality code, or very 
 * https://github.com/chiphuyen/ml-interviews-book
 * https://github.com/microsoft/CyberBattleSim
 * https://github.com/yenchenlin/awesome-adversarial-machine-learning
+
+# Building a SPA (Single Page Application)
