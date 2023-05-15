@@ -11,7 +11,7 @@ Product engineers generally pick mainstream languages and tools. They talk about
 "Product engineer" describes a person's motivations: primarily interested in writing code as a means to making a product, or improving a product.
 Lots of engineers are primarily motivated by writing high quality code, or very performant code, or prefer to write tools (libraries/frameworks) over writing products using those tools.
 
-### Hiring Product Engineers
+### Hiring a Product Engineer
 
 * I'd hand them a piece of paper and ask them to sketch out a profile page that's user friendly.
 * Then I'd ask them how they'd design the schema for that.
@@ -22,7 +22,7 @@ Lots of engineers are primarily motivated by writing high quality code, or very 
 * I'd ask programming related questions as well but if (when) I hire I want someone who thinks about the end user experience while they are developing, I don't live in a world where a job comes with a 400 page spec and neither would they.
 * I take the view that I'd rather have someone who can think about how the end system will work than someone who knows ever single API for whatever language I'm hiring for, one of those you can find on google in 30 seconds the other not so much.
 
-# Initial Setup
+# Getting Started
 
 ### References
 * https://github.com/hendurhance/ui-ux
